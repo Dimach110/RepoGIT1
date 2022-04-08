@@ -24,3 +24,4 @@ for film in bodycount.values():
     for val in film.values():
         summ += val
 print(summ)
+print (type(summ))
